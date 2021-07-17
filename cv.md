@@ -3,7 +3,7 @@ layout: page
 title: "Curriculum Vitae"
 ---
 
-I am currently a graduate teaching faculty at the Institute for Strategic Research and Development Studies (ISRDS) at the Visayas State University,Philippines. My research experiences mainly focused on understanding the economic and social dimensions of developing sustainable agricultural food systems.I continuously seek to leverage my research skills and experience to contribute to research that aims to find solutions to key global transition issues in food, agriculture, and the environment.It is my goal to the close the gap between the academic landscape and communities in working towards a more sustainable future.
+I am currently a graduate teaching faculty at the Institute for Strategic Research and Development Studies (ISRDS) at the Visayas State University,Philippines. At the ISRDS, I am involved in teaching, research and extension. My research experiences mainly focused on understanding the economic and social dimensions of developing sustainable agricultural food systems.I continuously seek to leverage my research skills and experience to contribute to research that aims to find solutions to key global transition issues in food, agriculture, education and the environment.It is my goal to the close the gap between the academic landscape and communities in working towards a more sustainable future.
 
 # _**Education and Work Experience**_
 * 2020 - Present: **Faculty Member**, Institute for Strategic Research and Development Studies (ISRDS), Visayas State University, Philippines
