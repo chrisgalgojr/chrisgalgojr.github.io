@@ -17,15 +17,20 @@ _**Teaching**_
 As a lecturer
 
 * *Master Courses (1st Semester to present)*
-DSOC 221 – Sociology of Agriculture
-DSOC 224 – Demography
-DSOC 252 – Resources Management, Access and Benefit Sharing LAMP 299 – Graduate Seminar
+
+* DSOC 221 – Sociology of Agriculture
+* DSOC 224 – Demography
+* DSOC 252 – Resources Management, Access and Benefit Sharing 
+* LAMP 299 – Graduate Seminar
 
 * *Undergraduate*
-ABMg 105 - Applied Economics (2nd Semester 2020-2021) ENTR11 - Entrepreneurial Mind –(1st Semester 2020-2021)
+
+* ABMg 105 - Applied Economics (2nd Semester 2020-2021) 
+* ENTR11   - Entrepreneurial Mind –(1st Semester 2020-2021)
 
 * *Highschool*
-PR2- Practical Research for Senior High School (1st Semester 2020-2021)
+
+* PR2- Practical Research for Senior High School (1st Semester 2020-2021)
 
 
 **Publication**
