@@ -1,6 +1,9 @@
-# Time to Mainstream the Alternative
+---
+title: "Time to Mainstream the Alternative"
+layout: post
+---
 
-*I originally wrote this article for the Center for Sustainable and Development Studies Blog Series.* 
+*I originally wrote this article for the Center for Sustainable and Development Studies Blog Series* 
 
 The current food and farming systems around the world are under pressure and face major sustainability issues driven by industrial agriculture which dominates the current agricultural landscape driving environmental degradation to socioeconomic inequalities, food insecurity for many, and economic adversities to farmers. This blog echoes the call for a shift on how we grow and consume our food decoupling economic growth from environmental degradation to achieve the Sustainable Development Goals (SDGs)
 
