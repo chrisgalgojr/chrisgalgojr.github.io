@@ -5,6 +5,7 @@ title: "Research"
 **Fieldwork**
 
 ![fieldworkpic.jpeg](/assets/images/fieldworkpic.jpeg)
+*Farmer’s interview for the case study on the agro-eco tourism development and sustainable farm resources uses in rural transition (Can Tho, Vietnam 2018)*
 
 _**Cocoa supply chain resilience (The Philippines, 2019)**_
 
