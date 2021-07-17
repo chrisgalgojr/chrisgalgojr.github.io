@@ -20,7 +20,7 @@ As a lecturer:
 
 * DSOC 221 – Sociology of Agriculture
 * DSOC 224 – Demography
-* DSOC 252 – Resources Management, Access and Benefit Sharing 
+* DSOC 252 – Resources Management, Access and Benefit Sharing (co-lecturer)
 * LAMP 299 – Graduate Seminar
 
 **Undergraduate**
