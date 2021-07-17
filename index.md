@@ -7,4 +7,4 @@ Hi, I am Christopher Jr. Galgo, an instructor at the Institute for Strategic Res
 
 In my spare time, I like to read, listen to music, do karaoke or run. 
 
-![profilepic.jpeg](/assets/images/profilepic.jpeg)
+![profilepic.jpeg](/assets/images/profilepic.jpeg=250x)
