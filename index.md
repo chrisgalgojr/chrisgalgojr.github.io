@@ -9,4 +9,7 @@ In my spare time, I like to read, listen to music, do karaoke or run.
 
 <img src="/assets/images/profilepic.jpeg" width="200">
 
+**Contact**
 
+Christopher Jr. Galgo
+Email: christopherjr.galgo@gmail.com 
