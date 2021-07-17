@@ -11,6 +11,5 @@ In my spare time, I like to read, dance, listen to music, do karaoke or run.
 
 **Contact**
 
-Christopher Jr. Galgo
-
+*Christopher Jr. Galgo*
 Email: christopherjr.galgo@gmail.com 
