@@ -18,7 +18,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "cv_chrisgalgojr.pdf", title: "CV"} 
   - {file: "teaching.md", title: "Teaching"} 
   - {file: "research.md", title: "Research"} 
-  - {file: "blog.md", url: "https://christopherjrgalgo.wordpress.com/blog-2/"}
+  - {file: "blog.md", title: "Blog"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Twitter, icon: twitter, url: "https://twitter.com/chrisgalgojr"}
