@@ -14,7 +14,7 @@ _**Education and Work Experience**_
 
 _**Teaching**_
 
-As a lecturer
+As a lecturer:
 
 **Master Courses (1st Semester to present)**
 
