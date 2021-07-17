@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ""
+title: "About Me"
 ---
 ![me](https://github.com/chrisgalgojr/chrisgalgojr.github.io/blob/master/images/profilepic.jpeg)
 
