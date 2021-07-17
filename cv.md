@@ -3,7 +3,7 @@ layout: page
 title: "Curriculum Vitae"
 ---
 
-_**Education and Work Experience**_
+# _**Education and Work Experience**_
 * 2020 - Present: **Faculty Member**, Institute for Strategic Research and Development Studies (ISRDS), Visayas State University, Philippines
 * 2018 - 2019: **Intern, Content Writer and Researcher**, Centre for Sustainable Development Studies (CSDS), Amsterdam Institute for Social Science Researcher (AISSR), University of Amsterdam, Netherlands
 * 2017 - 2019: **International Master of Science in Rural Development**, Ghent University, Belgium and University of Pisa, Italy
@@ -12,7 +12,7 @@ _**Education and Work Experience**_
 * 2013 - 2014: **Student Research Assistant**, The WorldFish Project, Visayas State Uinversity
 * 2010 - 2014: **Bachelor of Science in Agribusiness**, Visayas State University, Philippines
 
-_**Teaching**_
+# _**Teaching**_
 
 As a lecturer:
 
@@ -33,7 +33,7 @@ As a lecturer:
 * PR2- Practical Research for Senior High School (1st Semester 2020-2021)
 
 
-**Publication**
+# _**Publication**_
 
 *See*
 [GoogleScholar](https://scholar.google.ca/citations?user=3R9ZhooAAAAJ&hl=en)
