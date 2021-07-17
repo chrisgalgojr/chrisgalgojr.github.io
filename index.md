@@ -3,7 +3,7 @@ layout: page
 title: "About Me"
 ---
 
-Hi, I am Christopher Jr. Galgo, an instructor at the Institute for Strategic Research and Development Studies at the Visayas State University. I am interested in the dynamics of the rural development process and the social and economic dimensions of developing food systems sustainable. 
+Hi, I am an instructor at the Institute for Strategic Research and Development Studies at the Visayas State University. I am interested in the dynamics of the rural development processes and the social and economic dimensions of developing sustainable food systems. 
 
 In my spare time, I like to read, dance, listen to music, do karaoke or run. 
 
