@@ -5,7 +5,7 @@ title: "Curriculum Vitae"
 
 I am currently a graduate teaching faculty at the Institute for Strategic Research and Development Studies (ISRDS) at the Visayas State University,Philippines. At the ISRDS, I am involved in teaching, research and extension. My research experiences mainly focused on understanding the economic and social dimensions of developing sustainable agricultural food systems. I continuously seek to leverage my research skills and experience to contribute to research that aims to find solutions to key global transition issues in food, agriculture, education and the environment. It is my goal to close the gap between the academia and communities in working towards a more sustainable future.
 
-# _**Education and Work Experience**_
+# _**Education and Work Experiences**_
 * 2020 - Present: **Faculty Member**, Institute for Strategic Research and Development Studies (ISRDS), Visayas State University, Philippines
 * 2018 - 2019: **Intern, Content Writer and Researcher**, Centre for Sustainable Development Studies (CSDS), Amsterdam Institute for Social Science Researcher (AISSR), University of Amsterdam, Netherlands
 * 2017 - 2019: **International Master of Science in Rural Development**, Ghent University, Belgium and University of Pisa, Italy
@@ -38,4 +38,4 @@ As a lecturer:
 # _**Publication**_
 
 *See*
-[GoogleScholar](https://scholar.google.ca/citations?user=3R9ZhooAAAAJ&hl=en)
+[Google Scholar](https://scholar.google.ca/citations?user=3R9ZhooAAAAJ&hl=en)
