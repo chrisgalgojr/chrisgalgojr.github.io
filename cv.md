@@ -6,13 +6,13 @@ title: "Curriculum Vitae"
 I am currently a graduate teaching faculty at the Institute for Strategic Research and Development Studies (ISRDS) at the Visayas State University,Philippines. At the ISRDS, I am involved in teaching, research and extension. My research experiences mainly focused on understanding the economic and social dimensions of developing sustainable agricultural food systems. I continuously seek to leverage my research skills and experience to contribute to research that aims to find solutions to key global transition issues in food, agriculture, education and the environment. It is my goal to close the gap between the academia and communities in working towards a more sustainable future.
 
 # _**Education and Work Experiences**_
-* 2020 - Present: **Faculty Member**, Institute for Strategic Research and Development Studies (ISRDS), Visayas State University, Philippines
-* 2018 - 2019: **Intern, Content Writer and Researcher**, Centre for Sustainable Development Studies (CSDS), Amsterdam Institute for Social Science Researcher (AISSR), University of Amsterdam, Netherlands
+* 2020 - Present: **Faculty Member**, Institute for Strategic Research and Development Studies (ISRDS), [Visayas State University, Philippines](https://www.vsu.edu.ph)
+* 2018 - 2019: **Intern, Content Writer and Researcher**, [Centre for Sustainable Development Studies (CSDS), Amsterdam Institute for Social Science Researcher (AISSR), University of Amsterdam, Netherlands](https://csds.uva.nl)
 * 2017 - 2019: **International Master of Science in Rural Development**, [Ghent University, Belgium and University of Pisa, Italy](https://www.imrd.ugent.be)
-* 2015 - 2017: **Science Research Assistant**, Philippine Rootcrops Research and Training Centre, Philippines
-* 2014 - 2015: **Instructor**, Department of Business and Management, Visayas State University, Philippines
-* 2013 - 2014: **Student Research Assistant**, The WorldFish Project, Visayas State Uinversity
-* 2010 - 2014: **Bachelor of Science in Agribusiness**, Visayas State University, Philippines
+* 2015 - 2017: **Science Research Assistant**, [Philippine Rootcrops Research and Training Centre, Philippines](https://philrootcrops.vsu.edu.ph)
+* 2014 - 2015: **Instructor**, Department of Business and Management, [Visayas State University, Philippines](https://www.vsu.edu.ph)
+* 2013 - 2014: **Student Research Assistant**, The WorldFish Project, [Visayas State Uinversity](https://www.vsu.edu.ph)
+* 2010 - 2014: **Bachelor of Science in Agribusiness**, [Visayas State University, Philippines](https://www.vsu.edu.ph)
 
 # _**Teaching**_
 
