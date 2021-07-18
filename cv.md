@@ -8,7 +8,7 @@ I am currently a graduate teaching faculty at the Institute for Strategic Resear
 # _**Education and Work Experiences**_
 * 2020 - Present: **Faculty Member**, Institute for Strategic Research and Development Studies (ISRDS), Visayas State University, Philippines
 * 2018 - 2019: **Intern, Content Writer and Researcher**, Centre for Sustainable Development Studies (CSDS), Amsterdam Institute for Social Science Researcher (AISSR), University of Amsterdam, Netherlands
-* 2017 - 2019: **International Master of Science in Rural Development**, Ghent University, Belgium and University of Pisa, Italy
+* 2017 - 2019: **International Master of Science in Rural Development**, [Ghent University, Belgium and University of Pisa, Italy](https://www.imrd.ugent.be)
 * 2015 - 2017: **Science Research Assistant**, Philippine Rootcrops Research and Training Centre, Philippines
 * 2014 - 2015: **Instructor**, Department of Business and Management, Visayas State University, Philippines
 * 2013 - 2014: **Student Research Assistant**, The WorldFish Project, Visayas State Uinversity
