@@ -7,7 +7,7 @@ layout: post
 
 The current food and farming systems around the world are under pressure and face major sustainability issues driven by industrial agriculture which dominates the current agricultural landscape driving environmental degradation to socioeconomic inequalities, food insecurity for many, and economic adversities to farmers. This blog echoes the call for a shift on how we grow and consume our food decoupling economic growth from environmental degradation to achieve the Sustainable Development Goals (SDGs). 
 
-![flick_sustainableagriculture.jpeg](/assets/images/flick_sustainableagriculture.jpeg)
+![flickr_sustainableagriculture.jpeg](/assets/images/flickr_sustainableagriculture.jpeg)
 
 The Global Sustainable Technology and Innovation Conference I attended in Brussels, Belgium last November 28-30, which gathered experts from around the world, reinforced the need for a paradigm shift in how we produce and consume food to achieve sustainable development through alternative approaches and innovations in the current food system. Reducing the ecological footprint was basically the cornerstone of the “alternative” and innovative approaches to transform the status quo, with agroecological approaches being increasingly prominent in the debate. 
 
