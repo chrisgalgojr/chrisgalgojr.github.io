@@ -5,13 +5,17 @@ layout: post
 
 *This article has been published in the Center for Sustainable and Development Studies Blog Series before it was archived* 
 
-The current food and farming systems around the world are under pressure and face major sustainability issues driven by industrial agriculture which dominates the current agricultural landscape driving environmental degradation to socioeconomic inequalities, food insecurity for many, and economic adversities to farmers. This blog echoes the call for a shift on how we grow and consume our food decoupling economic growth from environmental degradation to achieve the Sustainable Development Goals (SDGs)
+The current food and farming systems around the world are under pressure and face major sustainability issues driven by industrial agriculture which dominates the current agricultural landscape driving environmental degradation to socioeconomic inequalities, food insecurity for many, and economic adversities to farmers. This blog echoes the call for a shift on how we grow and consume our food decoupling economic growth from environmental degradation to achieve the Sustainable Development Goals (SDGs). 
+
+![flick_sustainableagriculture.jpeg](/assets/images/flick_sustainableagriculture.jpeg)
 
 The Global Sustainable Technology and Innovation Conference I attended in Brussels, Belgium last November 28-30, which gathered experts from around the world, reinforced the need for a paradigm shift in how we produce and consume food to achieve sustainable development through alternative approaches and innovations in the current food system. Reducing the ecological footprint was basically the cornerstone of the “alternative” and innovative approaches to transform the status quo, with agroecological approaches being increasingly prominent in the debate. 
 
 In the most basic sense, agroecology is mimicking the natural processes in the farm settings.  According to Olivier De Schutter, co-chair of the International Panel of Experts on Sustainable Food Systems (IPES-Food – per its website), this is done by “working with nature rather than against it”. These approaches, or the application of ecological concepts and principles to food systems’ design and management, have consistently proven capable of increasing productivity and sustaining this over time and, rebuilding soil fertility and the environment as reported. With these benefits in mind, one can’t help but ask, what hinders the transition?
 
 The recent report by the IPES Foodon breaking away from industrial food and farming system enumerated eight lock-ins, illustrated in (Figure 1), which prevent the transition towards a more sustainable food system. These include (a) path dependency; (b) export orientation; (c) expectation of cheap food; (d) feed the world narratives; (e) compartmentalized thinking; (f) short term thinking; and (g) measures of success, underpinned by;(h) the concentration of power in a limited number of actors that reinforces their ability to influence policies with their strengthened economic and political dominance.
+
+![ipesfood_8lockins.jpeg](/assets/images/ipesfood_8lockins.jpeg)
 
 Conversely, in spite of these lock-ins, the report showed through several case studies that actors of the food system, from farmers to researchers to consumers, have found ways to break away from industrial agriculture. These approaches have been founded by questioning the assumptions of the industrial agriculture paradigm to fundamental rethinking and redesigning of the food and farming systems. IT IS THEREFORE POSSIBLE to redesign the food and farming system fundamentally. The question is how do we upscale these approaches. 
 
