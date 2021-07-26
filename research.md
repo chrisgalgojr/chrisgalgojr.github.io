@@ -8,9 +8,9 @@ title: "Research, Development and Extension"
 
 *Farmer’s interview for the case study on the agro-eco tourism development and sustainable farm resources uses in rural transition (Can Tho, Vietnam 2018)*
 
-_**Cocoa supply chain resilience (The Philippines, 2019)**_
+_**Assessing the resilience of the cocoa supply chain in the Philippines (The Philippines, 2019)**_
 
-I spent about two months in Bohol and Davao Philippines collecting data for my MSc thesis. The goal of the project was to analyze the relationship of supply chain resilience elements in a developing country context using the Philippine cocoa supply chain as a case study. I collected household-level data using surveys and face to face interviews in major cocoa-producing areas in the country. 
+I spent about two months in Bohol and Davao Philippines collecting data for my MSc thesis. The goal of the project was to assess the resilience of the cocoa supply chain in the Philippines using supply chain resilience (SCR) elements in the context of developing countries. I collected household-level data using surveys and face to face interviews in major cocoa-producing areas in the country. 
 
 _**Agro-eco tourism development and Sustainable Farm Resources Uses in Rural Transition (Vietnam, 2018)**_
 
