@@ -31,3 +31,9 @@ In Region VIII, Leyte has the highest number of registered voters in 2019 at aro
 <iframe title="Number of Registered Voters in Region VIII" aria-label="Map" id="datawrapper-chart-13IlK" src="https://datawrapper.dwcdn.net/13IlK/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="687"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
+*Resources* 
+[What is voter registration](https://comelec.gov.ph/index.html?r=VoterRegistration/WhatisVoterRegistration)
+[iRehistro](https://comelec.gov.ph/?r=VoterRegistration/iRehistro)
+[Updates on COMELEC’s Mobile Registration Form App](https://comelec.gov.ph/?r=VoterRegistration/PressReleases/17June2021pr) 
+[COMELEC Extends Voter Registration Hours](https://comelec.gov.ph/?r=2022NLE/PressRelease/20Aug2021pr) 
+[Comelec website](https://comelec.gov.ph) 
