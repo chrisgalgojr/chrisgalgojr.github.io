@@ -4,9 +4,9 @@ layout: post
 ---
 The 2022 election is fast approaching and with that comes the pressure of making sure that 
 everyone eligible will be able to exercise their right to suffrage. As of writing, we only 
-have exactly one month before the last day of voter's registration i.e. September 30, 2021. So if you have not done that, I have included some resources which you may find helpful at the end of this blog.
+have one month before the last day of voter's registration i.e. September 30, 2021. So if you have not done that, I have included some resources which you may find helpful at the end of this blog.
 
-With that in mind and before the release of new data for the 2022 polls, it is only necessary and fitting to explore who voted on the last or the 2019 general election. Using available data from the Commission on Elections, I did a little #datavis exercise to see some interesting quick stats with particular focus on Region VIII. 
+With that in mind and before the release of new data for the 2022 polls, it is only necessary and fitting to explore who voted last 2019 general election. Using available data from the Commission on Elections, I did a little #datavis exercise to see some interesting quick stats with particular focus on Region VIII. 
 
 Below you can see the results of the #datavis exercise. 
 
