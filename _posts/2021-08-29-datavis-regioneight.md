@@ -1,15 +1,12 @@
 ---
 title: "DataVis: Region VIII Quick Stats"
-Date: 2021-08-29
+Date: 2021-09-01
 layout: post
 ---
 The 2022 election is fast approaching and with that comes the pressure of making sure that 
 everybody eligible will be able to exercise their right to suffrage. As of writing, we only 
-have exactly one month before the last day of voter's registration i.e. September 30, 2021. 
-So if you have not registered I would like to direct you to some resources that may guide you to 
-do so which you can find in the bottom of this blog.
-
-With that in mind, it is only necessary and fitting to explore the latest available data from the Commission on Elections for a #datavis exercise to see some interesting quick stats. 
+have exactly one month before the last day of voter's registration i.e. September 30, 2021*. 
+With that in mind, it is only necessary and fitting to explore the latest available data from the Commission on Elections for a #datavis exercise to see some interesting quick stats. For this, we will try to focus on Region VIII. 
 
 First we have the number of registered voters by sex and region. 
 
