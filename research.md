@@ -5,9 +5,8 @@ title: "Research, Development and Extension"
 **Development and Extension**
 
 _**Barangay Management Information System -  Barangay Integrated Development Approach for Nutrition Improvement of the Rural Poor**_
-
 _**Building Capacities of Barangay People and Institutions for Community Development**_
-
+_**Coalescing Organizations Towards Locally Led Actions to Boost Development (COLLABDev)**
 _**Leadership for Resilient Local Government Units**_
 
 **Research**
