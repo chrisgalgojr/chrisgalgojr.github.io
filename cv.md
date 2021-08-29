@@ -3,7 +3,7 @@ layout: page
 title: "Curriculum Vitae"
 ---
 
-I am currently a graduate teaching faculty at the Institute for Strategic Research and Development Studies (ISRDS) at the Visayas State University,Philippines. At the ISRDS, I am involved in teaching, research and extension. My research experiences mainly focused on understanding the economic and social dimensions of developing sustainable agricultural food systems. I continuously seek to leverage my research skills and experience to contribute to research that aims to find solutions to key global transition issues in food, agriculture, education and the environment. It is my goal to close the gap between the academia and communities in working towards a more sustainable future.
+I am a graduate teaching faculty at the Institute for Strategic Research and Development Studies (ISRDS) at the Visayas State University,Philippines. At the ISRDS, I am involved in teaching, research and extension. My research experiences mainly focused on understanding the economic and social dimensions of developing sustainable agricultural food systems. I continuously seek to leverage my research skills and experience to contribute to research that aims to find solutions to key global transition issues in agriculture, education and the environment. It is my goal to contribute on solutions that aims to close the gap between the academia and communities in working towards a more sustainable future.
 
 # _**Education and Work Experiences**_
 * 2020 - Present: **Faculty Member**, Institute for Strategic Research and Development Studies (ISRDS), [Visayas State University, Philippines](https://www.vsu.edu.ph)
@@ -27,12 +27,14 @@ As a lecturer:
 
 **Undergraduate**
 
+* ECON198  - Research Planning and Manuscript Preparation (1st Semester 2021-2022)
+* ECON131  - Economic Development (1st Semester 2021-2022)
 * ABMg 105 - Applied Economics (2nd Semester 2020-2021) 
-* ENTR11   - Entrepreneurial Mind –(1st Semester 2020-2021)
+* ENTR11   - Entrepreneurial Mind (1st Semester 2020-2021)
 
 **Highschool**
 
-* PR2- Practical Research for Senior High School (1st Semester 2020-2021)
+* PR2- Practical Research for Senior High School (1st Semester 2020-2021, 2021-2022)
 
 
 # _**Publication**_
