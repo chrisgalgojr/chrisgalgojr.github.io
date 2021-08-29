@@ -1,6 +1,5 @@
 ---
 title: "DataVis: Region VIII Quick Stats"
-Date: 2021-09-01
 layout: post
 ---
 The 2022 election is fast approaching and with that comes the pressure of making sure that 
