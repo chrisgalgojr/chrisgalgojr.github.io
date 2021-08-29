@@ -3,9 +3,10 @@ title: "DataVis: Region VIII Quick Stats"
 layout: post
 ---
 The 2022 election is fast approaching and with that comes the pressure of making sure that 
-everybody eligible will be able to exercise their right to suffrage. As of writing, we only 
-have exactly one month before the last day of voter's registration i.e. September 30, 2021*. 
-With that in mind, it is only necessary and fitting to explore the latest available data from the Commission on Elections, for a #datavis exercise to see some interesting quick stats. For this, I looked at data from the 2019 general elections with particular focus on Region VIII. 
+everyone eligible will be able to exercise their right to suffrage. As of writing, we only 
+have exactly one month before the last day of voter's registration i.e. September 30, 2021. If you have not done so, I have included some resources which you may find helpful at the end of this blog.
+
+With that in mind and before the release of new data for the 2022 polls, it is only necessary and fitting to explore who voted on the last or the 2019 general election. Using available data from the Commission on Elections, I did a little #datavis exercise to see some interesting quick stats with particular focus on Region VIII. 
 
 Below you can see the results of the #datavis exercise. 
 
@@ -29,3 +30,4 @@ In Region VIII, Leyte has the highest number of registered voters in 2019 at aro
 
 <iframe title="Number of Registered Voters in Region VIII" aria-label="Map" id="datawrapper-chart-13IlK" src="https://datawrapper.dwcdn.net/13IlK/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="687"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
+
