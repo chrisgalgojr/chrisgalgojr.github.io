@@ -22,12 +22,14 @@ Registered Voters Profile by Sex and Age Group
 <iframe title="Registered Voters Profile by Sex and Age Group" aria-label="Split Bars" id="datawrapper-chart-MxtR1" src="https://datawrapper.dwcdn.net/MxtR1/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="453"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
-Voter's Turnout in Region VIII
+The Comelec estimates around 198,000 first-time voters in Eastern Visayas to be enlisted for the 2022 polls. According to Comelec Eastern Visayas Regional Director Jose Nick Mendros, as of June 5, 2021 only 68,076 have approved registration. 
+
+Source: Philippine News Agency, 2021
 
 <iframe title="Voter's Turnout in Region VIII from 1992 to 2019" aria-label="Interactive line chart" id="datawrapper-chart-SGyEu" src="https://datawrapper.dwcdn.net/SGyEu/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="291"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
-  
-Number of Registered Voters in Region VIII
+ 
+In Region VIII, Leyte has the highest number of registered voters in 2019 at around 1.3 M. This is followed by Samar, Northern Samar, Eastern Samar, Southern Leyte and Biliran, respectively. This scenario is consistent with the population of each province.
 
 <iframe title="Number of Registered Voters in Region VIII" aria-label="Map" id="datawrapper-chart-13IlK" src="https://datawrapper.dwcdn.net/13IlK/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="687"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
