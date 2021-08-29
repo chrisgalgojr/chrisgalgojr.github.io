@@ -4,12 +4,12 @@ title: "Research, Development and Extension"
 ---
 **Development and Extension**
 
-## Project Leader
+### Project Leader
 
 * Barangay Management Information System -  Barangay Integrated Development Approach for Nutrition Improvement of the Rural Poor
 * Building Capacities of Barangay People and Institutions for Community Development
 
-## Project Member
+### Project Member
 
 * Coalescing Organizations Towards Locally Led Actions to Boost Development (COLLABDev)
 * Leadership for Resilient Local Government Units
