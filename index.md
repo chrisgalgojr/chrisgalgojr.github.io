@@ -13,5 +13,6 @@ In my spare time, I like to read, dance, listen to music or do karaoke and run.
 
 *Christopher Jr. Galgo*
 
-*Personal Email: [christopherjr.galgo@gmail.com](christopherjr.galgo@gmail.com)
-*Institutional Email: [chris.galgo@vsu.edu.ph](chris.galgo@vsu.edu.ph) 
+Personal Email: [christopherjr.galgo@gmail.com](christopherjr.galgo@gmail.com)
+
+Institutional Email: [chris.galgo@vsu.edu.ph](chris.galgo@vsu.edu.ph) 
