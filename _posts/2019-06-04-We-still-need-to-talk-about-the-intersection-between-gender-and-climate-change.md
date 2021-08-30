@@ -7,6 +7,11 @@ I originally wrote this article for the Center for Sustainable and Development S
 
 Climate change remains one of the greatest threats to achieving sustainable development, and its effects often fall hardest on women. I have written this blog to share several points that I find important after reading articles and blogs tackling gender within the issue of climate change.
 
+![women discussion.jpg](/assets/images/women discussion.jpg)
+*Indian women discussing challenges and solutions relating to common property resources in their village*
+
+Source: [CGIAR](https://www.flickr.com/photos/crp_drylands/29486045956/in/photostream/)
+
 Climate change is not gender-neutral, its impacts affect women and men differently across societies. In many instances, climate change has negative implications for women, increasing their vulnerability because of their lower social, economic, political, and legal power, especially in developing countries.  Women in poor rural communities use natural resources in different ways than men, as they possess fewer assets. From food preparation to sourcing of water, fuel, and wood, women are more vulnerable to climatic changes that affect these resources. Having grown up in a developing country, I witnessed this every day at multiple scales; within my own household, around my neighborhood,  and in marginalized areas as I traveled around for research purposes. That may be interesting to some of you, but in most developing countries and emerging economies, women still use cookstoves that rely on biomass as their primary source of solid fuel, wood, and charcoal being the most common
 
 In agriculture, female agricultural workers are confronted with severe unequal access in terms of land, finance, and vital farm inputs e.g. seeds, fertilizer, and irrigation to name a few. A quick search on google would present you with a number of case studies from Bangladesh to Africa on how the vulnerability is differentiated by gender on the impacts of climate change. For example, a study has reported that in Malawi, more girls dropped out to save money and assist with household tasks than boys after a drought. So not only does climate change reduce the chances to achieve gender equality but it also aggravates existing ones.
