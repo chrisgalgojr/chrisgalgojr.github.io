@@ -3,7 +3,7 @@ layout: page
 title: "Blog"
 ---
 
-This is a repository of blog posts I have written concerning topics I found interesting. Welcome!
+Welcome. This is a repository of blog posts I have written. 
 
 <ul>
   {% for post in site.posts %}
