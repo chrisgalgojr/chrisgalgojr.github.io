@@ -3,7 +3,7 @@ Title: "What do we know about COVID-19 in the Philippines: Tracking cases and fa
 Layout: Post
 ---
 
-My friend Jade Vincent Membrebe recently mapped the current active cases of COVID 19 in Leyte (you can check his [blog](https://jadevincentmembrebe.wordpress.com/2020/06/08/covid-19-cases-in-leyte/?fbclid=IwAR03Wd4A5jc3EZMneCKSxtcVVon40hk9YBtkcsj3jP9oRY_KMOqKMrSUnzA) here). 
+My friend Jade Vincent Membrebe recently mapped the current active cases of COVID 19 in Leyte (you can check his [blog](https://jadevincentmembrebe.wordpress.com/2020/06/08/covid-19-cases-in-leyte/?fbclid=IwAR03Wd4A5jc3EZMneCKSxtcVVon40hk9YBtkcsj3jP9oRY_KMOqKMrSUnzA). 
 Inspired by his effort, I have combined important statistics (notable cases, facility capacity, the number of testing, etc. ) 
 from ourworldindata.org and local database systems into this blog, hoping that we look at the current issue from a better and more factual perspective.
 
