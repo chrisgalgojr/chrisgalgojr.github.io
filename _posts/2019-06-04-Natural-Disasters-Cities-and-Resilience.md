@@ -12,7 +12,8 @@ national, regional, and global levels to all kinds of disasters. Few, however, a
 sustainability, more so that resilience is that what drives sustainability. 
 
 ![flood pics.jpeg]( /assets/images/flood pics.jpeg)
-Source: [Photo: Ernie Penaredondo] (https://www.flickr.com/photos/globalwaterpartnership/4682586822) 
+
+Source: [Photo: Ernie Penaredondo](https://www.flickr.com/photos/globalwaterpartnership/4682586822) 
 
 According to the World Bank, climate-related disasters may push up to 77 million urban residents into poverty if not significant investment 
 to improve the resilience of cities around the world is done (2016). This is quite concerning especially as 80% of the world’s population are 
@@ -42,17 +43,18 @@ This is of course not to say that cities have not already tried to become resili
 In Europe, cities in the Netherlands like Rotterdam and Amsterdam are home to numerous urban water innovations, such as floating houses and city squares designed to collect millions of liters of water in flood conditions. Finch Floating Homes,  a Dutch company has extended this innovation to developing economies like the Philippines, my home country where a natural disaster has become a daily reality, to enable affordable and safe living in deltas and developing economies.
 
 ![ finch-floating-homes.jpeg](/assets/images/finch-floating-homes.jpeg)
+
 Impression of the floating homes that Finch Floating Homes wants to build in the Philippines 
-Source: [Finch Floating Homes] (https://www.dutchwatersector.com/news/crowdfunding-halfway-for-first-floating-homes-in-hagonoy-philippines) 
+Source: [Finch Floating Homes](https://www.dutchwatersector.com/news/crowdfunding-halfway-for-first-floating-homes-in-hagonoy-philippines) 
 
 To conclude, it cannot be denied that our capacity to deal with shocks and disasters has led to innovations. While hurricanes and earthquakes will still occur, cities can minimize the devastation it brings with resilient infrastructure, sustainable policies, and inclusive urban planning and innovation. As we become more aware of what is happening all over the world, making us feel more vulnerable than ever, it is of utmost importance that we understand our resilience capacity to cope with disruption and disturbance. Unity in planning, action, funding, and infrastructure should be the foundation of these efforts and these efforts should be insulated from politics.
 
 *References*
 
-*C40 (n.d.), [About](https://www.c40.org/about)
-*[Finch Floating Homes (n.d.)](http://www.finchfloatinghomes.com)
-*(Pelling, M. (2005). The Vulnerability of Cities: Natural Disasters and Social *Resilience, Environmental Sciences, 2:4, 463-464 DOI: 10.1080/15693430500111884
-*The Chicago Council on Global Affairs (2017). [Natural Disasters]( http://digital.thechicagocouncil.org/natural-disasters#home/2)
-*World Bank (2016). [World Bank: Investing in Urban Resilience Can Save the World’s Cities Billions Each Year and Keep Millions out of Poverty](http://www.worldbank.org/en/news/press-release/2016/10/12/world-bank-investing-in-urban-resilience-can-save-the-worlds-cities-billions-each-year-and-keep-millions-out-of-poverty)
-*World Economic Forum (2019). [The Global Risks Report 2019 14th Edition]( http://www3.weforum.org/docs/WEF_Global_Risks_Report_2019.pdf)
+1. C40 (n.d.), [About](https://www.c40.org/about)
+2. [Finch Floating Homes (n.d.)](http://www.finchfloatinghomes.com)
+3. (Pelling, M. (2005). The Vulnerability of Cities: Natural Disasters and Social *Resilience, Environmental Sciences, 2:4, 463-464 DOI: 10.1080/15693430500111884
+4. The Chicago Council on Global Affairs (2017). [Natural Disasters]( http://digital.thechicagocouncil.org/natural-disasters#home/2)
+5. World Bank (2016). [World Bank: Investing in Urban Resilience Can Save the World’s Cities Billions Each Year and Keep Millions out of Poverty](http://www.worldbank.org/en/news/press-release/2016/10/12/world-bank-investing-in-urban-resilience-can-save-the-worlds-cities-billions-each-year-and-keep-millions-out-of-poverty)
+6. World Economic Forum (2019). [The Global Risks Report 2019 14th Edition]( http://www3.weforum.org/docs/WEF_Global_Risks_Report_2019.pdf)
 
