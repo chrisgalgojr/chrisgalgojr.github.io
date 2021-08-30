@@ -11,7 +11,7 @@ the safety of cities all over the world” World Bank, 2016). Countries continuo
 national, regional, and global levels to all kinds of disasters. Few, however, acknowledge that without resilience we would not achieve 
 sustainability, more so that resilience is that what drives sustainability. 
 
-![flood pics.jpeg]( /assets/images/flood pics.jpeg)
+![flood pics.jpeg](/assets/images/flood pics.jpeg)
 
 Source: [Photo: Ernie Penaredondo](https://www.flickr.com/photos/globalwaterpartnership/4682586822) 
 
@@ -45,6 +45,7 @@ In Europe, cities in the Netherlands like Rotterdam and Amsterdam are home to nu
 ![ finch-floating-homes.jpeg](/assets/images/finch-floating-homes.jpeg)
 
 Impression of the floating homes that Finch Floating Homes wants to build in the Philippines 
+
 Source: [Finch Floating Homes](https://www.dutchwatersector.com/news/crowdfunding-halfway-for-first-floating-homes-in-hagonoy-philippines) 
 
 To conclude, it cannot be denied that our capacity to deal with shocks and disasters has led to innovations. While hurricanes and earthquakes will still occur, cities can minimize the devastation it brings with resilient infrastructure, sustainable policies, and inclusive urban planning and innovation. As we become more aware of what is happening all over the world, making us feel more vulnerable than ever, it is of utmost importance that we understand our resilience capacity to cope with disruption and disturbance. Unity in planning, action, funding, and infrastructure should be the foundation of these efforts and these efforts should be insulated from politics.
