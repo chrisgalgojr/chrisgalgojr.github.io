@@ -7,7 +7,7 @@ I am an instructor at the Institute for Strategic Research and Development Studi
 
 # _**Education and Work Experiences**_
 * 2020 - Present: **Faculty Member**, Institute for Strategic Research and Development Studies (ISRDS), [Visayas State University, Philippines](https://www.vsu.edu.ph)
-* 2018 - 2019: **Intern, Content Writer and Researcher**, [Centre for Sustainable Development Studies (CSDS), Amsterdam Institute for Social Science Researcher (AISSR), University of Amsterdam, Netherlands](https://csds.uva.nl)
+* 2018 - 2019: **Intern, Content Writer and Researcher**, [Centre for Sustainable Development Studies (CSDS), Amsterdam Institute for Social Science Research (AISSR), University of Amsterdam, Netherlands](https://csds.uva.nl)
 * 2017 - 2019: **International Master of Science in Rural Development**, [Ghent University, Belgium and University of Pisa, Italy](https://www.imrd.ugent.be)
 * 2015 - 2017: **Science Research Assistant**, [Philippine Rootcrops Research and Training Centre, Philippines](https://philrootcrops.vsu.edu.ph)
 * 2014 - 2015: **Instructor**, Department of Business and Management, [Visayas State University, Philippines](https://www.vsu.edu.ph)
