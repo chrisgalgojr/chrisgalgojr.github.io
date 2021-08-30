@@ -12,8 +12,7 @@ containment and closure policies, economic policies such as income support to ci
 According to the Oxford COVID-19 Government Response Tracker (OxCGRT) which systematically collects information on these indicators, 
 the Philippines is actually one of few countries that implemented the strictest response (>90 index). 
 Based on nine of these indicators which include school closures, workplace closure, and travel bans, 
-the country recorded an index of 96.3 (100= the strictest response) together with countries like Mongolia, Nepal, Georgia, Kenya, Morocco, etc.  
-(China recorded an index of 56.94). Note however that this index does not score the appropriateness or effectiveness of a country’s response.
+the country recorded an index of 96.3 (100= the strictest response) together with countries like Mongolia, Nepal, Georgia, Kenya, Morocco, etc.(China recorded an index of 56.94). Note however that this index does not score the appropriateness or effectiveness of a country’s response.
 
 <iframe src="https://ourworldindata.org/grapher/covid-stringency-index?time=2020-02-02&region=Asia&country=~PHL" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
@@ -44,6 +43,7 @@ However, according to the Department of Health DataCollect app, there are only 5
 Baybay with no ICU beds, no ward beds, and zero (0) mechanical ventilators as of June 9, 2020. 
 Now I do not know if this is an issue of reporting but why is the DOH COVID-19 tracker reflecting that these beds are still available and not occupied?  
 Where are these confirmed cases being isolated? Who then will be isolated in these facilities? 
+
 Clearly, we need more transparency and better management and dissemination of available data. 
 I think it is important to acknowledge and act on this now realising the risk COVID-19 poses to the general public, 
 and how the general public rely on these information to understand the level of risk around them and how the local government units 
