@@ -13,7 +13,7 @@ The Intergovernmental Panel on Climate Change (IPCC, 2018) defined climate-resil
 
 ![climate resilient pathways.png](/assets/images/climate resilient pathways.png) 
 
-Source: [IPCC, 2018[12.Global warming of 1.5°C](https://www.ipcc.ch/sr15/)
+Source: IPCC, 2018[12].[Global warming of 1.5°C](https://www.ipcc.ch/sr15/)
 
 Illustrated in this figure in green arrows, Climate-resilient development pathways involve societal transformation rather than business-as-usual approaches, and all pathways involve different adaptation and mitigation choices and trade-offs. Pathways entail a mix of measures, and some simultaneously achieve sustainable development objectives by lowering emissions and reducing the impacts of climate change, while contributing to poverty eradication and reducing inequalities.
 
