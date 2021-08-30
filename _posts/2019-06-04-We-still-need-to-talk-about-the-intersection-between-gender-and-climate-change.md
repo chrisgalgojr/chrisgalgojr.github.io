@@ -22,11 +22,10 @@ However, women’s contribution to the fight against climate change is still mar
 
 To conclude, yes, we still need to talk about gender within the issue of climate change. There still exists a need to improve our understanding of factors that hinder or facilitate the emergence of gender-responsive climate change policies. A critical examination of policy interaction discourses and institutional setting and the inclusion of represented actors, particularly women, should be taken into consideration to explicitly address gender issues in the discussion
 
-References:
-Mersha, A.A. and van Laerhoven, F., 2019. Gender and climate policy: a discursive institutional analysis of Ethiopia’s climate resilient strategy. Regional Environmental Change, 19(2), pp.429-440.
+*References:*
 
-Mavisakalyan, A. and Tarverdi, Y., 2019. Gender and climate change: Do female parliamentarians make difference?. European Journal of Political Economy, 56, pp.151-164.
-
-Yadav, S.S. and Lal, R., 2018. Vulnerability of women to climate change in arid and semi-arid regions: The case of India and South Asia. Journal of Arid Environments, 149, pp.4-17.
+1. Mersha, A.A. and van Laerhoven, F., 2019. Gender and climate policy: a discursive institutional analysis of Ethiopia’s climate resilient strategy. Regional Environmental Change, 19(2), pp.429-440.
+2. Mavisakalyan, A. and Tarverdi, Y., 2019. Gender and climate change: Do female parliamentarians make difference?. European Journal of Political Economy, 56, pp.151-164.
+3. Yadav, S.S. and Lal, R., 2018. Vulnerability of women to climate change in arid and semi-arid regions: The case of India and South Asia. Journal of Arid Environments, 149, pp.4-17.
 
 
