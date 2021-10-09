@@ -43,7 +43,7 @@ As a lecturer:
 
 # _**Presentation**_
  
-* 2021 -Philippine Sociological Society 2021 International Conference: Sociology of Vulnerabilities and Resistance,_Philippines_
+* 2021 - Philippine Sociological Society 2021 International Conference: Sociology of Vulnerabilities and Resistance,_Philippines_
 * 2020 - 2nd International Conference on Poverty Alleviation and Sustainable Development,_Philippines_
 * 2018 - Jean Monnet Chair SAMPLEU Conference on "Small Area Methods and Living Conditions Indicators in European Poverty Studies in the Era of          Data Deluge and Big Data, _Pisa, Italy_
 * 2014 - Search for Phi Delta Outstanding Undegraduate Theses, Economics and Business Category,_Philippines_ 
