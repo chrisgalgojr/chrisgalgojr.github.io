@@ -16,9 +16,9 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "cv.md", title: "CV"}  
-  - {file: "research.md", title: "RDE"} 
-  - {file: "blog.md", title: "Blog"}
+  - {file: "cv.md", title: "cv"}  
+  - {file: "research.md", title: "projects"} 
+  - {file: "blog.md", title: "blog"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Twitter, icon: twitter, url: "https://twitter.com/chrisgalgojr"}
