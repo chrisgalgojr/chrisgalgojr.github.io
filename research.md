@@ -5,16 +5,26 @@ title: "Research, Development and Extension"
 ## Development and Extension
 
 ### Project Leader
+* Digtizing Community Monitoring in the Barangays for Data-Driven Governance and Development (Project DigiMon) 
 
+### Project Component Leader
 * Barangay Management Information System -  Barangay Integrated Development Approach for Nutrition Improvement of the Rural Poor
-* Building Capacities of Barangay People and Institutions for Community Development
+* Enhancement of the VSU Community's Knowledge Base in Data-Driven Development - Coalescing Organizations Towards Locally Led Actions to Boost Development (COLLABDev)
 
-### Project Member
-
-* Coalescing Organizations Towards Locally Led Actions to Boost Development (COLLABDev)
+### Permanent Alternate
 * Leadership for Resilient Local Government Units
 
 ## Research
+_**More than just food: Exploration of the diverse meanings ascribed to food by the different social groups in Eastern Visayas**_ (Jan 2022 - December 2022) with Ms. Gina Delima
+* Project objectives
+
+  The output and findings of this project are foreseen to assist in the improvement of the understanding of the contextual meaning of healthy food in the different social groups in Eastern Visayas (Region 8) and nearby provinces, thus, can inform policies and interventions geared toward the addressing food and nutrition issues in a more participatory and inclusive manner.
+  
+  Specifically, this study aims to:
+1. provide an overview of the diverse meanings ascribed by the different social groups in Eastern Visayas region and nearby 
+2. provinces to healthy and unhealthy food.  Additionally, this study would examine the various factors that could facilitate and/or inhibit people from consuming healthy food as well as their future visions of healthy food systems; 
+3. recommend a more inclusive food policy directions and strategies; and 
+4. publish this research as a chapter in a book jointly written by researchers from more than 10 countries.
 
 _**Assessing the resilience of the cocoa supply chain (The Philippines, 2019)**_
 
