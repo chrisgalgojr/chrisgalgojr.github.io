@@ -27,9 +27,10 @@ As a lecturer:
 
 **Undergraduate**
 
+* AgSc 123 - Introduction to Agricultural Policy and Development (2nd Semester 2021-2022)
 * ECON198  - Research Planning and Manuscript Preparation (1st Semester 2021-2022)
 * ECON131  - Economic Development (1st Semester 2021-2022)
-* ABMg 105 - Applied Economics (2nd Semester 2020-2021) 
+* ABMg 105 - Applied Economics (2nd Semester 2020-2021, 2021-2022) 
 * ENTR11   - Entrepreneurial Mind (1st Semester 2020-2021)
 
 **Highschool**
@@ -43,6 +44,7 @@ As a lecturer:
 
 # _**Presentation**_
  
+* 2021 - 4th Colleges and Universities Public Service Conference, _Philippines_
 * 2021 - Philippine Sociological Society 2021 International Conference: Sociology of Vulnerabilities and Resistance, _Philippines_
 * 2020 - 2nd International Conference on Poverty Alleviation and Sustainable Development, _Philippines_
 * 2018 - Jean Monnet Chair SAMPLEU Conference on "Small Area Methods and Living Conditions Indicators in European Poverty Studies in the Era of          Data Deluge and Big Data, _Pisa, Italy_
