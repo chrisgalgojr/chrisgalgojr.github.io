@@ -12,6 +12,7 @@ As a faculty instructor for two years and six months, I was involved in instruct
 I continuously seek to leverage my research skills and experience to contribute to research that aims to find solutions to key global transition issues in agriculture, education and the environment. It is my goal to contribute on solutions that aims to close the gap between the academia and communities in working towards a more sustainable future.
 
 # _**Education and Work Experiences**_
+* 2022 - Present: **Research Assistant/PhD Candidate**, Business Management and Organisation, [Wageningen University and Research, Netherlands](https://research.wur.nl/en/persons/christopher-galgo)
 * 2020 - 2022: **Faculty Member**, Institute for Strategic Research and Development Studies (ISRDS), [Visayas State University, Philippines](https://www.vsu.edu.ph)
 * 2018 - 2019: **Intern, Content Writer and Researcher**, [Centre for Sustainable Development Studies (CSDS), Amsterdam Institute for Social Science Research (AISSR), University of Amsterdam, Netherlands](https://csds.uva.nl)
 * 2017 - 2019: **International Master of Science in Rural Development**, [Ghent University, Belgium and University of Pisa, Italy](https://www.imrd.ugent.be)
