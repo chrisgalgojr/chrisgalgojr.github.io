@@ -12,5 +12,5 @@ When I'm alone with free time, I like to read, dance, listen to music, do karaok
 **Contact**
 
 *Christopher Jr. Galgo*.  
-Institutional Email: [chris.galgo@vsu.edu.ph](chris.galgo@vsu.edu.ph) 
+
 
