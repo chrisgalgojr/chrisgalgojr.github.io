@@ -7,8 +7,6 @@ Hi, I'm Christopher. I am a research assistant/ PhD researcher at Wageningen Uni
 
 In my free time, I like to read, dance, listen to music, do karaoke and run. 
 
-<img src="/assets/images/profilepic.jpeg" width="200">
-
 **Contact**
 
 *Christopher Jr. Galgo*  
