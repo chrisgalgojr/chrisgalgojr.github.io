@@ -11,5 +11,5 @@ In my free time, I like to read, dance, listen to music, do karaoke and run.
 
 *Christopher Jr. Galgo*
 
-[LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+Connec with me on [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
  
