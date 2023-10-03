@@ -10,6 +10,6 @@ In my free time, I like to read, dance, listen to music, do karaoke and run.
 **Contact**
 
 *Christopher Jr. Galgo*
-**Linkedin**: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
 
-
+[**Linkedin**](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+ 
