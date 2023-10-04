@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "About Me"
+title: "Welcome to my website!"
 ---
 
-Hi! Welcome to my website!
+Hi!
 
 I'm Christopher. I am a research assistant/ PhD researcher at Wageningen University and Research. 
 
