@@ -51,8 +51,11 @@ As a lecturer:
 *See*
 [Google Scholar](https://scholar.google.ca/citations?user=3R9ZhooAAAAJ&hl=en)
 
-# _**Presentation**_
+# _**Paper Presentations**_
  
+* 2026 - DRUID Academy Conference, Aarhus University, Denmark, January 21-24,2026
+* 2025 - 10th international conference on New Business Models - Global challenges - local responses: Scaling up local sustainability innovations and business models to address the SDGs, School of Business           Administration, University of Iceland, June 24-26 2025
+* 2023 - 8th International Conference on New Business Models "Building partnerships for more Sustainable, Resilient, and Regenerative Business Models", School of Business and Economics, Maastricht                   University, June 21-23 2023
 * 2021 - 4th Colleges and Universities Public Service Conference, _Philippines_
 * 2021 - Philippine Sociological Society 2021 International Conference: Sociology of Vulnerabilities and Resistance, _Philippines_
 * 2020 - 2nd International Conference on Poverty Alleviation and Sustainable Development, _Philippines_
