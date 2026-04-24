@@ -5,7 +5,7 @@ title: "Welcome to my website!"
 
 Hi! My name is Christopher. 
 
-Currently, I am busy working as a PhD Researcher at Wageningen University and Research and a task-leader for BEATLES, a Horizon Europe funded project, which aims to propose innovative systemic solutions to encourage long-term and large-scale transitions to sustainable, productive, and climate smart agri-food systems.
+Currently, I am busy working as a PhD Researcher at Wageningen University and Research and a task-leader for BEATLES - a Horizon Europe funded project which aims to propose innovative systemic solutions to encourage long-term and large-scale transitions to sustainable, productive, and climate smart agri-food systems.
 
 In my free time, I like to read, dance, listen to music, do karaoke and run. 
 
