@@ -3,7 +3,7 @@ layout: page
 title: "Curriculum Vitae"
 ---
 
-Interdisciplinary background in agribusiness and rural development economics. 
+I'm a transdisciplinary researcher focused on questions around food systems transitions in the face of climate-change. 
 
 I continuously seek to leverage my research, extension and teaching skills and experience to contribute to research that aims to find solutions to key global transition issues in agriculture, education and the environment. It is my goal to contribute on solutions that aims to close the gap between the academia and communities in working towards a more sustainable future.
 
