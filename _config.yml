@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "blog.md", title: "blog"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: LinkedIn, icon: Linkedin, url: "https://www.linkedin.com/in/christopher-jr-galgo-1b19a277/"}
+  - {title: LinkedIn, icon:"<i class="fa-brands fa-linkedin"></i>" Linkedin, url: "https://www.linkedin.com/in/christopher-jr-galgo-1b19a277/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
