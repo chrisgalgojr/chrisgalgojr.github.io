@@ -3,13 +3,14 @@ layout: page
 title: "Curriculum Vitae"
 ---
 
-I'm a transdisciplinary researcher focused on questions around sustainability transitions in the face of climate-change. 
+## Christopher Jr. Galgo
+** Food systems and business model innovation researcher**
+
+I'm a transdisciplinary researcher focused on questions around how business model innovation can support fair transition towards more sustainable food systems in the face of climate-change. In my research, I have worked with multidisciplinary teams in collaboration with civil society organisations, international NGOs, and government agencies to to identify constraints, gaps, and opportunities within value chain segments and actors, co-design fair business models and, upgrade products, processes, and chain performance.
 
 I continuously seek to leverage my research, extension and teaching skills and experience to contribute to research that aims to find solutions to key global transition issues in agriculture, education and the environment. It is my goal to contribute on solutions that aims to close the gap between the academia and communities in working towards a more sustainable future.
 
-For two years, I worked as an instructor for undergraduate and graduate courses at the Visayas State University in the Philippines. As part of this role I lead and co-lead research and extension projects focused on community development.Prior to this role, I worked as a research assistant for national research programmes and consultancy projects focused on value chain analyses/ development of major agricultural crops (seaweeds, sweetpotato, and rice) and the resilience of food systems in the Philippines. 
-
-In these projects, I worked within multidisciplinary teams in collaboration with local civil society organizations, international NGOs, and government agencies to identify constraints, gaps, and opportunities within value chain segments and actors (farmers, farmer organisation beneficiaries, small-scale food processors, MSMEs) to upgrade products, processes, and chain performance.
+I also have experience in teaching, and extension. 
 
 # _**Education and Work Experiences**_
 * 2022 - Present: **Research Assistant/PhD Candidate**, Business Management and Organisation, [Wageningen University and Research, Netherlands](https://research.wur.nl/en/persons/christopher-galgo)
