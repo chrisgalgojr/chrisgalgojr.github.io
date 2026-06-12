@@ -4,7 +4,7 @@ title: "Curriculum Vitae"
 ---
 
 ## Christopher Jr. Galgo
-** Food systems and business model innovation researcher**
+**Food systems and business model innovation researcher**
 
 I'm a transdisciplinary researcher focused on questions around how business model innovation can support fair transition towards more sustainable food systems in the face of climate-change. In my research, I have worked with multidisciplinary teams in collaboration with civil society organisations, international NGOs, and government agencies to to identify constraints, gaps, and opportunities within value chain segments and actors, co-design fair business models and, upgrade products, processes, and chain performance.
 
