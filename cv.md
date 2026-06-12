@@ -6,7 +6,7 @@ title: "Curriculum Vitae"
 ## Christopher Jr. Galgo
 **Food systems and business model innovation researcher**
 
-I'm a transdisciplinary researcher focused on questions around how business model innovation can support fair transition towards more sustainable food systems in the face of climate-change. In my research, I have worked with multidisciplinary teams in collaboration with civil society organisations, international NGOs, and government agencies to to identify constraints, gaps, and opportunities within value chain segments and actors, co-design fair business models and, upgrade products, processes, and chain performance.
+I'm a transdisciplinary researcher focused on questions around how business model innovation can support fair transition towards more sustainable food systems in the face of climate-change. In my research, I have worked with multidisciplinary teams in collaboration with civil society organisations, international NGOs, and government agencies to identify constraints, gaps, and opportunities within value chain segments and actors, upgrade products, processes, and chain performance and co-create fair business models.
 
 I continuously seek to leverage my research, extension and teaching skills and experience to contribute to research that aims to find solutions to key global transition issues in agriculture, education and the environment. It is my goal to contribute on solutions that aims to close the gap between the academia and communities in working towards a more sustainable future.
 
@@ -45,10 +45,12 @@ As a lecturer:
 
 * PR2- Practical Research for Senior High School (1st Semester 2020-2021, 2021-2022)
 
-# _**Publication**_
+# _**Selected Publications**_
 
-*See*
-[Google Scholar](https://scholar.google.ca/citations?user=3R9ZhooAAAAJ&hl=en)
+- Galgo, C. J., et al. **Business strategies towards climate-smart agriculture in Europe: A literature review.** *Business Strategy and the Environment*. [Article](https://onlinelibrary.wiley.com/doi/full/10.1002/bse.3741)
+- Galgo, C. J., et al. **Harvesting Value! Exploring How Climate-Smart Agriculture Practices Change Farm Business Models.** *Business Strategy and the Environment*. [Article](https://onlinelibrary.wiley.com/doi/abs/10.1002/bse.70205)
+
+For a full list of publications, see[Google Scholar](https://scholar.google.ca/citations?user=3R9ZhooAAAAJ&hl=en)
 
 # _**Paper Presentations**_
  
