@@ -1,17 +1,24 @@
 ---
 layout: page
-title: "Welcome to my website!"
+title: "Home"
 ---
 
-Hi! My name is Christopher. 
+## Food systems and business model innovation researcher
 
-Currently, I am busy working as a PhD Researcher at Wageningen University and Research and a task-leader for BEATLES - a Horizon Europe funded project which aims to propose innovative systemic solutions to encourage long-term and large-scale transitions to sustainable, productive, and climate smart agri-food systems. My work currently focuses on how we can innovate towards fair business models to support fair transition towards climate-smart agriculture.
+I study how business model innovation can support a fair transition towards more sustainable and climate-smart systems.
 
+My work brings together agribusiness, rural development, and sustainability-oriented innovation. 
+I am currently based at Wageningen University and Research as a PhD researcher for the Horizon Europe project  BEATLES, which aims to propose innovative systemic solutions to encourage long-term and large-scale transitions to sustainable, productive, and climate smart agri-food systems. 
+
+### Research interests
+
+- Food systems transitions
+- Business model innovation
+- Climate-smart agriculture
+- Value chains and rural development 
 In my free time, I like to read, dance, listen to music, do karaoke and run. 
 
-**Contact**
+## Connect 
 
-*Christopher Jr. Galgo*
-
-Connect with me on [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)!
+Find me on [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)!
  
