@@ -7,6 +7,8 @@ _**More than just food: Exploration of the diverse meanings ascribed to food by 
 
 The project examined how different social groups in Eastern Visayas and nearby provinces understand healthy and unhealthy food. It explored the social meanings attached to food, the factors that enable or constrain healthy food consumption, and the implications for more inclusive and participatory local food policy. 
 
+This research produced the chapter “Exploration of the Diverse Meanings Ascribed to Food by Consumers in Eastern Visayas, Philippines” in the edited volume *Geographies of Food* (Springer Geography, 2024). https://doi.org/10.1007/978-3-031-49873-2_6
+
 _**Assessing the resilience of the cocoa supply chain (The Philippines, 2019)**_
 
 This MSc thesis research assessed the resilience of the cocoa supply chain in the Philippines. I collected household-level data using surveys and face to face interviews in Bohol and Davao which are major cocoa-producing areas in the country. 
