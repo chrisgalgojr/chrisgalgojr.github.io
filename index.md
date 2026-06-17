@@ -22,4 +22,5 @@ In my free time, I like to read, dance, listen to music, do karaoke and run.
 ## Connect 
 
 Find me on [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)!
- 
+[ORCID](https://orcid.org/0000-0001-9636-042X)·
+[Web of Science](https://www.webofscience.com/wos/author/record/PMG-4747-2026)
