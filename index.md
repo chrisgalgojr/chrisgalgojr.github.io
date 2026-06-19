@@ -15,6 +15,7 @@ In my free time, I like to read, dance, listen to music, do karaoke and run.
 ### Research interests
 
 - Food systems transitions
+- Fair business models
 - Business model innovation
 - Climate-smart agriculture
 - Value chains and rural development 
