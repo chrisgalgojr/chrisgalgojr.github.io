@@ -22,6 +22,29 @@ I also have experience in teaching, and extension.
 * 2013 - 2014: **Student Research Assistant**, The WorldFish Project, [Visayas State Uinversity](https://www.vsu.edu.ph)
 * 2010 - 2014: **Bachelor of Science in Agribusiness**, [Visayas State University, Philippines](https://www.vsu.edu.ph)
 
+# _**Selected Publications**_
+
+- **Galgo, C. J.,** et al. Harvesting Value! Exploring How Climate-Smart Agriculture Practices Change Farm Business Models. *Business Strategy and the Environment*. [Article](https://onlinelibrary.wiley.com/doi/abs/10.1002/bse.70205)
+- Isakhanyan, G., **Galgo, C. J.,** et al. Business strategies towards climate-smart agriculture in Europe: A literature review. *Business Strategy and the Environment*. [Article](https://onlinelibrary.wiley.com/doi/full/10.1002/bse.3741)
+
+For a full list of publications, see [Google Scholar](https://scholar.google.ca/citations?user=3R9ZhooAAAAJ&hl=en)
+
+# _**Paper Presentations**_
+ 
+* 2026 - DRUID Academy Conference, Aarhus University, Denmark, January 21-24,2026
+* 2025 - 10th international conference on New Business Models - Global challenges - local responses: Scaling up local sustainability innovations and business models to address the SDGs, School of Business           Administration, University of Iceland, June 24-26 2025
+* 2023 - 8th International Conference on New Business Models "Building partnerships for more Sustainable, Resilient, and Regenerative Business Models", School of Business and Economics, Maastricht                   University, June 21-23 2023
+* 2021 - 4th Colleges and Universities Public Service Conference, _Philippines_
+* 2021 - Philippine Sociological Society 2021 International Conference: Sociology of Vulnerabilities and Resistance, _Philippines_
+
+# _ **Awards and Honors**  
+_  
+* 2024 – **Mr Patient of the Year**, The BEATLES Awards. Presented by the BEATLES project manager in recognition of my patient engagement and relationship-building when working with project partners in the organisation of the project's co-creation workshops.  
+* Jan 2019 – **ViCARP Outstanding RDE Paper (Socio‑economics Research Category)**, Visayas Consortium for Agriculture, Aquatic and Natural Resources Program (ViCARP), associated with Visayas State University.  
+* May 2014 – **2014 Phi Delta Outstanding Undergraduate Thesis in Economics and Business**, Phi Delta The Honor Society of Science, associated with Visayas State University.  
+* May 2014 – **Magna Cum Laude**, Visayas State University, Bachelor of Science in Agribusiness.
+
+
 # _**Teaching**_
 
 As a lecturer:
@@ -44,21 +67,6 @@ As a lecturer:
 **Highschool**
 
 * PR2- Practical Research for Senior High School (1st Semester 2020-2021, 2021-2022)
-
-# _**Selected Publications**_
-
-- **Galgo, C. J.,** et al. Harvesting Value! Exploring How Climate-Smart Agriculture Practices Change Farm Business Models. *Business Strategy and the Environment*. [Article](https://onlinelibrary.wiley.com/doi/abs/10.1002/bse.70205)
-- Isakhanyan, G., **Galgo, C. J.,** et al. Business strategies towards climate-smart agriculture in Europe: A literature review. *Business Strategy and the Environment*. [Article](https://onlinelibrary.wiley.com/doi/full/10.1002/bse.3741)
-
-For a full list of publications, see [Google Scholar](https://scholar.google.ca/citations?user=3R9ZhooAAAAJ&hl=en)
-
-# _**Paper Presentations**_
- 
-* 2026 - DRUID Academy Conference, Aarhus University, Denmark, January 21-24,2026
-* 2025 - 10th international conference on New Business Models - Global challenges - local responses: Scaling up local sustainability innovations and business models to address the SDGs, School of Business           Administration, University of Iceland, June 24-26 2025
-* 2023 - 8th International Conference on New Business Models "Building partnerships for more Sustainable, Resilient, and Regenerative Business Models", School of Business and Economics, Maastricht                   University, June 21-23 2023
-* 2021 - 4th Colleges and Universities Public Service Conference, _Philippines_
-* 2021 - Philippine Sociological Society 2021 International Conference: Sociology of Vulnerabilities and Resistance, _Philippines_
 * 2020 - 2nd International Conference on Poverty Alleviation and Sustainable Development, _Philippines_
 * 2018 - Jean Monnet Chair SAMPLEU Conference on "Small Area Methods and Living Conditions Indicators in European Poverty Studies in the Era of          Data Deluge and Big Data, _Pisa, Italy_
 * 2014 - Search for Phi Delta Outstanding Undegraduate Theses, Economics and Business Category, _Philippines_ 
