@@ -39,7 +39,7 @@ For a full list of publications, see [Google Scholar](https://scholar.google.ca/
 
 # _**Awards**_
 
-* 2024 – **Mr Patient of the Year**, The BEATLES Awards. Presented by the BEATLES project manager in recognition of my patient engagement and relationship-building when working with project partners in the organisation of the project's co-creation workshops.  
+* June 2024 – **Mr Patient of the Year**, The BEATLES Awards. Presented by the BEATLES project manager in recognition of my patient engagement and relationship-building when working with project partners in the organisation of the project's co-creation workshops.  
 * Jan 2019 – **ViCARP Outstanding RDE Paper (Socio‑economics Research Category)**, Visayas Consortium for Agriculture, Aquatic and Natural Resources Program (ViCARP), associated with Visayas State University.  
 * May 2014 – **2014 Phi Delta Outstanding Undergraduate Thesis in Economics and Business**, Phi Delta The Honor Society of Science, associated with Visayas State University.  
 * May 2014 – **Magna Cum Laude**, Visayas State University, Bachelor of Science in Agribusiness.
