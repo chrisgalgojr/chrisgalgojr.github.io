@@ -37,7 +37,7 @@ For a full list of publications, see [Google Scholar](https://scholar.google.ca/
 * 2021 - 4th Colleges and Universities Public Service Conference, _Philippines_
 * 2021 - Philippine Sociological Society 2021 International Conference: Sociology of Vulnerabilities and Resistance, _Philippines_
 
-# _ **Awards and Honors**  
+# _**Awards and Honors**  
 _  
 * 2024 – **Mr Patient of the Year**, The BEATLES Awards. Presented by the BEATLES project manager in recognition of my patient engagement and relationship-building when working with project partners in the organisation of the project's co-creation workshops.  
 * Jan 2019 – **ViCARP Outstanding RDE Paper (Socio‑economics Research Category)**, Visayas Consortium for Agriculture, Aquatic and Natural Resources Program (ViCARP), associated with Visayas State University.  
