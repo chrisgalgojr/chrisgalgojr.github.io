@@ -36,6 +36,9 @@ For a full list of publications, see [Google Scholar](https://scholar.google.ca/
 * 2023 - 8th International Conference on New Business Models "Building partnerships for more Sustainable, Resilient, and Regenerative Business Models", School of Business and Economics, Maastricht                   University, June 21-23 2023
 * 2021 - 4th Colleges and Universities Public Service Conference, _Philippines_
 * 2021 - Philippine Sociological Society 2021 International Conference: Sociology of Vulnerabilities and Resistance, _Philippines_
+* 2020 - 2nd International Conference on Poverty Alleviation and Sustainable Development, _Philippines_
+* 2018 - Jean Monnet Chair SAMPLEU Conference on "Small Area Methods and Living Conditions Indicators in European Poverty Studies in the Era of Data Deluge and Big Data, _Pisa, Italy_
+* 2014 - Search for Phi Delta Outstanding Undegraduate Theses, Economics and Business Category, _Philippines_ 
 
 # _**Awards**_
 
@@ -67,7 +70,5 @@ As a lecturer:
 **Highschool**
 
 * PR2- Practical Research for Senior High School (1st Semester 2020-2021, 2021-2022)
-* 2020 - 2nd International Conference on Poverty Alleviation and Sustainable Development, _Philippines_
-* 2018 - Jean Monnet Chair SAMPLEU Conference on "Small Area Methods and Living Conditions Indicators in European Poverty Studies in the Era of          Data Deluge and Big Data, _Pisa, Italy_
-* 2014 - Search for Phi Delta Outstanding Undegraduate Theses, Economics and Business Category, _Philippines_ 
+
 
