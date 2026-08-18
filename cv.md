@@ -17,13 +17,12 @@ I am particularly skilled at translating complex evidence into clear insights, c
 I am interested in roles involving research and analysis, strategy and innovation, sustainability, programme and project coordination, stakeholder engagement, policy, consulting, and knowledge management.
 
 # _**Education and Work Experiences**_
-* 2022 - Present: **Research Assistant/PhD Candidate**, Business Management and Organisation, [Wageningen University and Research, Netherlands](https://research.wur.nl/en/persons/christopher-galgo)
+* 2022 - Present: **Project Task Leader/PhD Candidate**, Business Management and Organisation, [Wageningen University and Research, Netherlands](https://research.wur.nl/en/persons/christopher-galgo)
 * 2020 - 2022: **Faculty Member**, Institute for Strategic Research and Development Studies (ISRDS), [Visayas State University, Philippines](https://www.vsu.edu.ph)
 * 2018 - 2019: **Intern, Content Writer and Researcher**, [Centre for Sustainable Development Studies (CSDS), Amsterdam Institute for Social Science Research (AISSR), University of Amsterdam, Netherlands](https://csds.uva.nl)
 * 2017 - 2019: **International Master of Science in Rural Development**, [Ghent University, Belgium and University of Pisa, Italy](https://www.imrd.ugent.be)
 * 2015 - 2017: **Science Research Assistant**, [Philippine Rootcrops Research and Training Centre, Philippines](https://philrootcrops.vsu.edu.ph)
 * 2014 - 2015: **Instructor**, Department of Business and Management, [Visayas State University, Philippines](https://www.vsu.edu.ph)
-* 2013 - 2014: **Student Research Assistant**, The WorldFish Project, [Visayas State Uinversity](https://www.vsu.edu.ph)
 * 2010 - 2014: **Bachelor of Science in Agribusiness**, [Visayas State University, Philippines](https://www.vsu.edu.ph)
 
 # _**Selected Publications**_
