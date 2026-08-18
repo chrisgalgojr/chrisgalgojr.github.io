@@ -4,13 +4,17 @@ title: "Curriculum Vitae"
 ---
 
 ## Christopher Jr. Galgo
-**Food systems and business model innovation researcher**
+**Transdisciplinary researcher|Strategy, Innovation and Sustainable Development**
 
-Interdisciplinary and transdisciplinary researcher focused on questions around how business model innovation can support fair transition towards more sustainable food systems in the face of climate-change. In my research, I have worked with multidisciplinary teams in collaboration with civil society organisations, international NGOs, and government agencies to identify constraints, gaps, and opportunities within value chain segments and actors, upgrade products, processes, and chain performance and co-create fair business models.
+I am a transdisciplinary researcher with experience in business model innovation, sustainability transitions, stakeholder engagement, and applied research. 
 
-I continuously seek to leverage my research, extension and teaching skills and experience to contribute to research that aims to find solutions to key global transition issues in agriculture, education and the environment. It is my goal to contribute on solutions that aims to close the gap between the academia and communities in working towards a more sustainable future.
+I work across disciplines and sectors to understand complex challenges, identify opportunities, and develop practical solutions that create value for organisations, communities, and society. 
 
-I also have experience in teaching, and extension. 
+My experience includes collaborating with civil society organisations, international NGOs, universities, government agencies and multidisciplinary project teams. I have contributed to research design, qualitative and mixed-methods analysis, knowledge synthesis, value-chain analysis, workshop facilitation, co-creation, academic and professional communication, and teaching. 
+
+I am particularly skilled at translating complex evidence into clear insights, connecting diverse stakeholders, and supporting the development of strategies, programmes, and business models. Although much of my work has focused on food systems and agriculture, my capabilities are applicable to wider challenges in sustainability, climate adaptation, innovation, organisational development, public policy, education, and international development.
+
+I am interested in roles involving research and analysis, strategy and innovation, sustainability, programme and project coordination, stakeholder engagement, policy, consulting, and knowledge management.
 
 # _**Education and Work Experiences**_
 * 2022 - Present: **Research Assistant/PhD Candidate**, Business Management and Organisation, [Wageningen University and Research, Netherlands](https://research.wur.nl/en/persons/christopher-galgo)
