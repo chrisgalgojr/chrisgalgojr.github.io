@@ -3,7 +3,7 @@ layout: page
 title: "Home"
 ---
 
-## Transdisciplinary researcher |Design Science Researcher| Strategy, Innovation and Sustainable Development
+## Transdisciplinary researcher | Design Science Researcher | Strategy, Innovation and Sustainable Development
 
 I apply Design Science Research to develop and evaluate practical responses to complex organisational and sustainability challenges. My work combines stakeholder engagement, co-creation, business model innovation, and systems analysis to translate research into actionable solutions.
 
