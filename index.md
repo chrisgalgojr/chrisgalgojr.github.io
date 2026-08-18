@@ -3,22 +3,21 @@ layout: page
 title: "Home"
 ---
 
-## Food systems and business model innovation researcher
+## Transdisciplinary researcher |Design Science Researcher| Strategy, Innovation and Sustainable Development
 
-I study how business model innovation can support a fair transition towards more sustainable agrifood systems.
+I apply Design Science Research to develop and evaluate practical responses to complex organisational and sustainability challenges. My work combines stakeholder engagement, co-creation, business model innovation, and systems analysis to translate research into actionable solutions.
 
-My work brings together agribusiness, rural development, and sustainability-oriented innovation. 
-I am currently based at Wageningen University and Research as a PhD researcher for the Horizon Europe project  BEATLES, which aims to propose innovative systemic solutions to encourage long-term and large-scale transitions to sustainable, productive, and climate smart agri-food systems.
+My broader interests include sustainability transitions, innovation, strategy, policy, organisational change, and international development.
 
-In my free time, I like to read, dance, listen to music, do karaoke and run. 
+### Areas of Expertise
 
-### Research interests
-
+- Design Science Research
+- Solution Design and Evaluation
+- Stakeholder Engagement
 - Food systems transitions
-- Fair business models
-- Business model innovation
+- Fair business model innovation
 - Climate-smart agriculture
-- Value chains and rural development 
+- Value chain and rural development 
 
 ## Connect 
 
