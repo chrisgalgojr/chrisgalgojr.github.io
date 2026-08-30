@@ -3,12 +3,14 @@ layout: page
 title: "Home"
 ---
 
-## Transdisciplinary design science researcher | Project management and support  Strategy, Innovation and Sustainable Development
+## Transdisciplinary Design Science Researcher 
 
-I apply Design Science Research to develop and evaluate practical responses to complex organisational and sustainability challenges. 
-My work combines stakeholder engagement, co-creation, business model innovation, and systems analysis to translate research into actionable solutions.
+I am a transdisciplinary researcher with around 10 years of combined experience in project management and support, agricultural extension, academic research and instruction.
 
-My broader interests include sustainability transitions, innovation, strategy, policy, organisational change, and international development.
+I apply Design Science Research and mixed method research approaches to develop and evaluate practical and evidence-informed solutions to complex organisational and sustainability challenges.
+My work contributes to the transition towards more fair and sustainable food systems.
+
+My broader interests include sustainability transitions, organisational change, and climate-change and business model innovation.
 
 ### Areas of Expertise
 
