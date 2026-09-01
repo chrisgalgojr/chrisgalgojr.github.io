@@ -25,8 +25,8 @@ _**Sweetpotato Industry Strategic Programme – Support Systems for Sweetpotato 
 
 As a science research assistant, this work involved field data collection, value chain analysis, project management support, and capacity development for farmer organizations. The project helped connect farmers to support systems and assisted 10 farmer associations, 1 cooperative, and around 546 farmers in Leyte and Samar.
 
-!FDG1.jpeg](/assets/images/FDG1.jpeg)
-!FDG2.jpeg](/assets/images/FDG2.jpeg)
+!FGD1.jpeg](/assets/images/FGD1.jpeg)
+!FGD2.jpeg](/assets/images/FGD2.jpeg)
 
 ## Development and Extension
 
