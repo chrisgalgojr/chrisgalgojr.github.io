@@ -3,11 +3,11 @@ layout: page
 title: "Home"
 ---
 
-## Transdisciplinary Design Science Researcher 
+## Transdisciplinary Researcher 
 
 I am a transdisciplinary researcher with around 10 years of combined experience in project management and support, agricultural extension, academic research and instruction.
 
-I apply Design Science Research and mixed method research approaches to develop and evaluate practical and evidence-informed solutions to complex organisational and sustainability challenges.
+I apply design science research and mixed method research approaches to explore, develop and evaluate practical and evidence-informed solutions to complex organisational and sustainability challenges.
 My work contributes to the transition towards more fair and sustainable food systems.
 
 My broader interests include sustainability transitions, organisational change, and climate-change and business model innovation.
