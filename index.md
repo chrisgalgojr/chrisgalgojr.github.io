@@ -2,7 +2,6 @@
 layout: page
 title: "Home"
 ---
-
 ## Transdisciplinary Researcher 
 
 I am a transdisciplinary researcher with around 10 years of combined experience in project management and support, agricultural extension, academic research and instruction.
