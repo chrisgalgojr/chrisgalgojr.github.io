@@ -25,11 +25,10 @@ I am interested in roles involving research and analysis, strategy and innovatio
 * 2010 - 2014: **Bachelor of Science in Agribusiness**, [Visayas State University, Philippines](https://www.vsu.edu.ph)
 
 # _**Selected Publications**_
+For a full list of publications, see [Google Scholar](https://scholar.google.ca/citations?user=3R9ZhooAAAAJ&hl=en)
 
 - **Galgo, C. J.,** et al. Harvesting Value! Exploring How Climate-Smart Agriculture Practices Change Farm Business Models. *Business Strategy and the Environment*. [Article](https://onlinelibrary.wiley.com/doi/abs/10.1002/bse.70205)
 - Isakhanyan, G., **Galgo, C. J.,** et al. Business strategies towards climate-smart agriculture in Europe: A literature review. *Business Strategy and the Environment*. [Article](https://onlinelibrary.wiley.com/doi/full/10.1002/bse.3741)
-
-For a full list of publications, see [Google Scholar](https://scholar.google.ca/citations?user=3R9ZhooAAAAJ&hl=en)
 
 # _**Presentations**_
  
