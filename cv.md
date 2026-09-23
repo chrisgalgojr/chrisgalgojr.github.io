@@ -52,7 +52,7 @@ For a full list of publications, see [Google Scholar](https://scholar.google.ca/
 
 # _**Teaching**_
 
-A copy of my student evaluation is available [here]({{ '/assets/Christopher Galgo Teaching Performance Evaluations.pdf' | relative_url }}).
+A copy of my student evaluation is available [here](/assets/student-evaluation.pdf).
 
 As a lecturer:
 
