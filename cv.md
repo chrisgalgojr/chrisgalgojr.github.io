@@ -5,7 +5,7 @@ title: "Curriculum Vitae"
 
 ## Christopher Jr. Galgo
 
-I am a transdisciplinary researcher with experience in business model innovation, sustainability transitions, stakeholder engagement, and applied research. 
+I am a transdisciplinary researcher with experience in business model innovation, sustainability transitions, stakeholder engagement, applied research and university teaching. 
 
 I work across disciplines and sectors to understand complex challenges, identify opportunities, and develop practical solutions that create value for organisations, communities, and society. 
 
