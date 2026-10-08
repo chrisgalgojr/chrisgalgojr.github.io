@@ -1,5 +1,5 @@
 ---
-title: "DataVis: Region VIII Quick Stats"
+title: "Who voted last 2019?: Region VIII Quick Stats"
 layout: post
 ---
 The 2022 election is fast approaching and with that comes the pressure of making sure that 
