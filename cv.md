@@ -30,6 +30,10 @@ For a full list of publications, see [Google Scholar](https://scholar.google.ca/
 - **Galgo, C. J.,** et al. Harvesting Value! Exploring How Climate-Smart Agriculture Practices Change Farm Business Models. *Business Strategy and the Environment*. [Article](https://onlinelibrary.wiley.com/doi/abs/10.1002/bse.70205)
 - Isakhanyan, G., **Galgo, C. J.,** et al. Business strategies towards climate-smart agriculture in Europe: A literature review. *Business Strategy and the Environment*. [Article](https://onlinelibrary.wiley.com/doi/full/10.1002/bse.3741)
 
+# _**Peer-Review Service**_
+* • [Verified reviewer record on Web of Science](https://www.webofscience.com/wos/author/record/PMG-4747-2026).
+* • Peer reviewer for *Cogent Food & Agriculture* and *Thunderbird International Business Review*.
+
 # _**Presentations**_
  
 * 2026 - DRUID Academy Conference, Aarhus University, Denmark, January 21-24,2026
