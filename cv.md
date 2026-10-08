@@ -31,8 +31,8 @@ For a full list of publications, see [Google Scholar](https://scholar.google.ca/
 - Isakhanyan, G., **Galgo, C. J.,** et al. Business strategies towards climate-smart agriculture in Europe: A literature review. *Business Strategy and the Environment*. [Article](https://onlinelibrary.wiley.com/doi/full/10.1002/bse.3741)
 
 # _**Peer-Review Service**_
-* • [Verified reviewer record on Web of Science](https://www.webofscience.com/wos/author/record/PMG-4747-2026).
-* • Peer reviewer for *Cogent Food & Agriculture* and *Thunderbird International Business Review*.
+* Peer reviewer for *Cogent Food & Agriculture* and *Thunderbird International Business Review*
+* [Verified reviewer record on Web of Science](https://www.webofscience.com/wos/author/record/PMG-4747-2026).
 
 # _**Presentations**_
  
