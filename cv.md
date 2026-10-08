@@ -3,18 +3,6 @@ layout: page
 title: "Curriculum Vitae"
 ---
 
-## Christopher Jr. Galgo
-
-I am a transdisciplinary researcher with experience in business model innovation, sustainability transitions, stakeholder engagement, applied research and university teaching. 
-
-I work across disciplines and sectors to understand complex challenges, identify opportunities, and develop practical solutions that create value for organisations, communities, and society. 
-
-My experience includes collaborating with civil society organisations, international NGOs, universities, government agencies and multidisciplinary project teams. I have contributed to research design, qualitative and mixed-methods analysis, knowledge synthesis, value-chain analysis, workshop facilitation, co-creation, academic and professional communication, and teaching. 
-
-I am particularly skilled at translating complex evidence into clear insights, connecting diverse stakeholders, and supporting the development of strategies, programmes, and business models. Although much of my work has focused on food systems and agriculture, my capabilities are applicable to wider challenges in sustainability, climate adaptation, innovation, organisational development, public policy, education, and international development.
-
-I am interested in roles involving research and analysis, strategy and innovation, sustainability, programme and project coordination, stakeholder engagement, policy, consulting, and knowledge management.
-
 # _**Education and Work Experiences**_
 * 2022 - Present: **Project Task Leader/PhD Candidate**, Business Management and Organisation, [Wageningen University and Research, Netherlands](https://research.wur.nl/en/persons/christopher-galgo)
 * 2020 - 2022: **Faculty Member**, Institute for Strategic Research and Development Studies (ISRDS), [Visayas State University, Philippines](https://www.vsu.edu.ph)
