@@ -3,14 +3,18 @@ layout: page
 title: "Curriculum Vitae"
 ---
 
-# _**Education and Work Experiences**_
-* 2022 - Present: **Project Task Leader/PhD Candidate**, Business Management and Organisation, [Wageningen University and Research, Netherlands](https://research.wur.nl/en/persons/christopher-galgo)
-* 2020 - 2022: **Faculty Member**, Institute for Strategic Research and Development Studies (ISRDS), [Visayas State University, Philippines](https://www.vsu.edu.ph)
+# _**Work Experiences**_
+* 2022 - 2026: **Project Task Leader**, Horizon Europe BEATLES project [Horizon Europe BEATLES, Netherlands](https://beatles-project.eu) at Business Management and Organisation, Wageningen University & Research 
+* 2020 - 2022: **Faculty Member (Instructor)**, Institute for Strategic Research and Development Studies (ISRDS), [Visayas State University, Philippines](https://www.vsu.edu.ph)
 * 2018 - 2019: **Intern, Content Writer and Researcher**, [Centre for Sustainable Development Studies (CSDS), Amsterdam Institute for Social Science Research (AISSR), University of Amsterdam, Netherlands](https://csds.uva.nl)
-* 2017 - 2019: **International Master of Science in Rural Development**, [Ghent University, Belgium and University of Pisa, Italy](https://www.imrd.ugent.be)
 * 2015 - 2017: **Science Research Assistant**, [Philippine Rootcrops Research and Training Centre, Philippines](https://philrootcrops.vsu.edu.ph)
 * 2014 - 2015: **Instructor**, Department of Business and Management, [Visayas State University, Philippines](https://www.vsu.edu.ph)
-* 2010 - 2014: **Bachelor of Science in Agribusiness**, [Visayas State University, Philippines](https://www.vsu.edu.ph)
+
+
+# _**Education**_
+* 2022 - Present: **PhD Candidate, Innovation & Strategy**, Business Management and Organisation, [Wageningen University and Research, Netherlands](https://research.wur.nl/en/persons/christopher-galgo)
+* 2017 - 2019: **International Master of Science in Rural Development**, [Ghent University, Belgium and University of Pisa, Italy](https://www.imrd.ugent.be)
+* 2010 - 2014: **Bachelor of Science in Agribusiness, Magna Cum Laude**, [Visayas State University, Philippines](https://www.vsu.edu.ph)
 
 # _**Selected Publications**_
 For a full list of publications, see [Google Scholar](https://scholar.google.ca/citations?user=3R9ZhooAAAAJ&hl=en)
