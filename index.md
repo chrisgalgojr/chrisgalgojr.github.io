@@ -2,9 +2,8 @@
 layout: page
 title: "Home"
 ---
-## Transdisciplinary Researcher and Lecturer
 
-I am a transdisciplinary researcher and a lecturer with around 10 years of combined experience in project management and support, agricultural extension, academic research and instruction.
+I am a innovation and strategy researcher with around 9 years of combined experience in sustainability transition research, stakeholder engagement, value chain analysis and development, project management and support, agricultural extension, university research and instruction.
 
 I apply design science research and mixed method research approaches to explore, develop and evaluate practical and evidence-informed solutions to complex organisational and sustainability challenges. My work contributes to the transition towards more fair and sustainable food systems.
 
