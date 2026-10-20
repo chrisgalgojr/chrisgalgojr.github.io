@@ -30,6 +30,19 @@ As a science research assistant, this work involved field data collection, value
   <img src="/assets/images/FGD2.jpg" alt="Focus group discussion 2" style="width: 49%; height: auto;">
 </div>
 
+_**Rice value chain analysis in Basey Samar**_
+
+The consultancy project was commissioned by CARE Philippines- a non-government organanization (NGO) in the Philippines that aims to provide emergency relief and to eradicate poverty in the country. The overall objective of this study is to develop a rice value chain model in Basey that consider market-driven upgrading and gender transformative actions, and for this model to be the basis for interventions under CARE’s livelihood program. I worked under the supervision of Mr. Marlon Tambis to:
+
+  1. Map out and identify the different phases of the rice value chain in Basey, Samar, including the roles/functions of the value chain actors and enablers, the constraints, gaps, opportunities and cost structure in the various value chain processes.
+  2. Examine the potential productivity and competitiveness gains, alignment of enterprises and services across the chain, improvements in supply chain efficiency, and improvements in human capital productivity.
+  3. Examine in detail all the value added steps in rice production and marketing, with the ‘‘value’’ also assessed, not just the monetary returns received by the farmers for their rice but, from a social perspective, resulting in a social value-chain that
+tracks social costs and benefits from the point of view of small-scale farmers;
+  4. Analyze inequalities and other gender-related barriers that hamper and/or facilitating factors that promote women, girls, boys and men’s access and exclusion (taking into account their vulnerabilities) participation in the over-all business environment of the rice sector
+  5. Assess the climate risk/vulnerability capacity within the rice value chain
+  6. Identify good practices/strategies of empowering women, girls, boys and men and other vulnerable groups engaged in enterprises towards resiliency to natural disasters; and
+  7. Inform CARE Philippines of context-specific interventions that will optimize existing and potential economic opportunities and social capital for women, men and other vulnerable groups.
+
 ## Development and Extension
 
 ### Project Leader
