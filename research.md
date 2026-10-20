@@ -31,7 +31,7 @@ As a science research assistant, this work involved field data collection, value
 </div>
 
 
-_**Rice value chain analysis in Basey Samar**_
+_**Rice value chain analysis in Basey Samar (The Philippines, 2015)**_
 
 The consultancy project was commissioned by CARE Philippines- a non-government organanization (NGO) in the Philippines that aims to provide emergency relief and to eradicate poverty in the country. The overall objective of the project is to develop a rice value chain model in Basey that consider market-driven upgrading and gender transformative actions, and for this model to be the basis for interventions under CARE’s livelihood program. I worked under the supervision of Mr. Marlon Tambis to:
 
